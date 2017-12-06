@@ -1,3 +1,4 @@
+//one change
                                 //  学生管理系统
 #include <stdio.h>
 #include<string.h>
