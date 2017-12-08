@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505792417 source:d:\c++专用文件夹\求前缀表达式\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

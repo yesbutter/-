@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505744381 source:d:\c++专用文件夹\bus dispatching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

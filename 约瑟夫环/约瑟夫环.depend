@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505190571 source:d:\c++专用文件夹\约瑟夫环\main.c
+	<stdio.h>
+	<stdlib.h>
+
