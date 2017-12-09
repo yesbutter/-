@@ -18,5 +18,8 @@
     <ClCompile Include="Permulations.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\Binart Search Tree\Binart Search Tree.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
