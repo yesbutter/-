@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1500976251 source:d:\c++专用文件夹\20161101215\main.cpp
+	<graphics.h>
+	<time.h>
+	<math.h>
+
+1501505524 source:d:\c workspace\20161101215\main.cpp
+	<graphics.h>
+	<time.h>
+	<math.h>
+
